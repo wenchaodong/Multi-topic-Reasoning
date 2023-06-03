@@ -79,4 +79,8 @@ Upon visualizing the association rules, we have noticed that the least satisfyin
 
     <p align="center"><img src="./figure/topic_distribution_q2.png" width = 500> </center>
 
-    <p align="center"><img src="./figure/rule_q2.png" width = 450> </center>
+    <p align="center"><img src="./figure/rule_q2.png" width = 350> </center>
+
+    Rule A-50, generated for the "**Contractor Treatment**" topic,expands the topic scope of rule E by including "**Issues and Criticisms**" in the premise, while rule H-50 involves the consideration of "**Work-life Balance**" in the basis of rule G, which suggests that "**Company Management**", "**Contractor Treatment**" and work-life balance issues are likely to result in "**Job Insecurity**". 
+
+
